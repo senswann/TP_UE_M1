@@ -1,0 +1,5 @@
+Mixamo (Adobe) https://www.mixamo.com/#/?page=2&type=Character :
+character_Astra.fbx
+
+Quentin Noguier : 
+Staff_StaticMesh.FBX
